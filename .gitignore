@@ -1,0 +1,31 @@
+# data files
+blobs/
+*.log
+*.data
+*.gz
+*.tgz
+.DS_Store
+out*
+*.zip
+*.out
+*.csv
+*.json
+
+metastore_db/
+
+*.class
+*.log
+
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# IntelliJ
+.idea/

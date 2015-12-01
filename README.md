@@ -2,17 +2,12 @@
 
 ## Capabilities
 
+#### Verify that you can run Spark code out of IntelliJ
+    
+For the instruction, see the source code SparkGrep.scala    
+
 #### Run word2vec training model based on paragraph vectors
 
-This is how you run it
+For the instruction, see the source code MyWord2vec.scala
+There are two ways to run, out of IntelliJ and by submitting to a Spark cluster
 
-    sbt package
-    ./my-submit.sh
-    
-This assumes that you are already running Spark master by doing this
-
-    ~/spark/sbin/start-all.sh
-
-(or running your cluster in a different way).
-    
-    

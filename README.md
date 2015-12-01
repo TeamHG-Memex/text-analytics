@@ -11,3 +11,5 @@ For the instruction, see the source code SparkGrep.scala
 For the instruction, see the source code MyWord2vec.scala
 There are two ways to run, out of IntelliJ and by submitting to a Spark cluster
 
+#### TBD - apply the trained word2vec model to Memex use cases
+

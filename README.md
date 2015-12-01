@@ -7,9 +7,9 @@
 For the instruction, see the source code SparkGrep.scala    
 
 #### Run word2vec training model based on paragraph vectors
-
-For the instruction, see the source code MyWord2vec.scala.  
-There are two ways to run, out on IntelliJ and another - by submitting to a Spark cluster
+  
+There are two ways to run, one - from IntelliJ, and another - by submitting to a Spark cluster.
+For instructions, see the source code MyWord2vec.scala.
 
 #### TBD - apply the trained word2vec model to Memex use cases
 

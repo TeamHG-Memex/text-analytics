@@ -1,0 +1,261 @@
+
+	People v Morales
+	2010 NY Slip Op 08012 [81 AD3d 1]
+	November 9, 2010
+	Friedman, J.
+	Appellate Division, First Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 16, 2011
+
+
+
+
+
+[*1]
+	The People of the State of New York, Respondent,
+v
+Edgar Morales, Appellant.
+
+
+
+First Department, November 9, 2010
+
+
+
+
+
+
+
+
+
+
+
+
+APPEARANCES OF COUNSEL
+
+
+
+Debevoise & Plimpton LLP, New York City (Catherine M. Amirfar, Benjamin Sirota, Ana Frischtak, Poonam Kumar and Naila B. McKenzie of counsel), for appellant.
+
+Robert T. Johnson, District Attorney, Bronx (Peter D. Coddington and Justin J. Braun of counsel), for respondent.
+
+
+
+{**81 AD3d at 5} OPINION OF THE COURT
+
+
+
+Friedman, J.
+
+Six days after the devastating attacks of September 11, 2001 (9/11), the Legislature passed the Anti-Terrorism Act of 2001 (L 2001, ch 300), which included, among other measures, article 490 of the Penal Law, entitled "Terrorism," defining various terrorism-related offenses. Penal Law § 490.25 (1) provides, in pertinent part, that a person is guilty of a "crime of terrorism" when he or she commits a "specified offense" as defined in Penal Law § 490.05 (3) (a) (including any violent felony offense as defined in Penal Law § 70.02) "with intent to intimidate or coerce a civilian population."[FN1]
+
+A person found guilty of a specified offense as a crime of terrorism is subject to substantial enhancement of the penalty, as provided in Penal Law § 490.25 (2).
+
+On August 18, 2002, a fight among members of rival gangs broke out following a party in the Bronx. In the course of the fighting, shots were fired, resulting in the death of a 10-year-old girl and the paralysis of a young man. Defendant Edgar Morales, a member of a gang of Mexican-American young adults and teenagers known as the St. James Boys (SJB), was ultimately charged with having committed these shootings. In what appears to have been the first prosecution for a crime of terrorism under Penal Law § 490.25, the People proceeded against defendant on the theory that he committed the charged specified offenses as crimes of terrorism because he acted with the intent to further the alleged purpose of the SJB gang to "intimidate or coerce a civilian population." The People alleged that the "civilian population" defendant and his gang targeted for intimidation comprised Mexican-Americans residing in the area of the Bronx in which the SJB sought to assert its dominance. This area is sometimes described in the record as the general vicinity of St. James Park, although the People's expert witness on gang{**81 AD3d at 6} behavior testified that the area extends (east to west) from Webster Avenue to University Avenue [*2]and (north to south) from 204th Street to 170th Street.[FN2]
+
+
+A jury trial resulted in defendant's conviction for three specified offenses as crimes of terrorism (manslaughter in the first degree, attempted murder in the second degree, and criminal possession of a weapon in the second degree) and one nonterrorism offense (conspiracy in the second degree). This appeal—apparently the first arising from a prosecution under Penal Law § 490.25—ensued.[FN3]
+
+
+It is the People's position that individuals of a particular ethnicity living in a particular urban neighborhood or group of neighborhoods may constitute "a civilian population" within the meaning of Penal Law § 490.25 (1). Defendant argues, to the contrary, that the Anti-Terrorism Act, as a response to 9/11, was intended to address criminal acts carried out for the purpose of creating a mass impact, on the scale of a country, state or city. This standard is not met, according to defendant, by acts that would intimidate only persons of a given ethnicity residing in a particular neighborhood, or group of neighborhoods, within a vastly larger city. Defendant further argues that even if a community as relatively small as the Mexican-American population of the St. James Park area could constitute "a civilian population" within the meaning of section 490.25, the People's evidence was insufficient to establish that defendant committed specified crimes with the intent to coerce and intimidate the area's Mexican-American population as a whole. Defendant contends that, on this record, the subject incident could not reasonably be found to have been anything{**81 AD3d at 7} more than an act of inter-gang rivalry—a genuine evil, to be sure, [*3]but not the sort of criminality that article 490 was intended to address.[FN4]
+
+
+While we reject defendant's other challenges to his conviction (which are discussed later in this writing), we find that the evidence is not legally sufficient to establish that he acted with the requisite intent to render his offenses crimes of terrorism. Specifically, even assuming in the People's favor that the Mexican-American residents of the St. James Park area may constitute "a civilian population" under Penal Law § 490.25 (1), the evidence was insufficient to support a finding that defendant committed his crimes with the intent to intimidate or coerce that "civilian [*4]population" generally, as opposed to the much more limited category of members of rival gangs.[FN5]
+
+We therefore reduce the convictions for crimes of terrorism to the corresponding specified crimes as lesser included offenses (see CPL 470.15{**81 AD3d at 8} [2] [a]), and remit for resentencing on those counts (see CPL 470.20 [4]).
+
+The shootings with which defendant was charged arose from a confrontation at a christening party between members of defendant's gang, the SJB, and a suspected member of a rival gang. The party was held at a church located at 1891 McGraw Avenue in the Bronx.[FN6]
+
+A number of SJB members, including defendant, appeared at the party uninvited and took to the stage, giving "shout-outs" (through the disc jockey) that described the SJB as superior to rival gangs (for example, calling themselves "the kings of the Bronx"). During the party, certain SJB members saw a young man named Miguel, whom they believed to be a member of a rival gang that they held responsible for a friend's death in a prior incident. Two SJB members confronted Miguel and demanded that he leave the party, but Miguel refused. Thereafter, according to the testimony of the People's main witness, a number of SJB members, including defendant, discussed how to respond to Miguel's perceived slight. The group agreed that they would beat up Miguel after the party. Defendant was to observe the proceedings while holding a handgun, which he was instructed to use if his friends were losing the fight. Defendant was provided with a gun, and the other SJB members assaulted Miguel and his companions as they left the party. In the course of the ensuing fighting, one of the SJB members called out for someone to shoot, and defendant pulled out the gun and fired five shots, resulting in the paralysis of one of Miguel's companions and, as stated, the death of a 10-year-old girl.
+
+Nothing in the foregoing scenario—the heart of the People's case—suggests that the purpose of defendant's actions was to intimidate or coerce the Mexican-American population [*5]residing in the St. James Park area. Rather, the only purposes of defendant's actions that can be discerned from the facts adduced at{**81 AD3d at 9} trial are those of asserting SJB's dominance over rival gangs in general and pursuing a vendetta against Miguel's gang in particular. This is confirmed by the evidence the People presented concerning the purpose of the SJB. The People's main fact witness (to whom we will refer as "ES"), a former leader of the SJB, testified that the gang's purpose was to "protect ourselves from the other gangs. They are our adversaries." Similarly, the People's expert witness on gang behavior, Detective James Shanahan, agreed in his testimony that the SJB members he had interviewed told him that "their purpose was to confront and assault rival gang members." Shanahan also testified that the SJB would stop and harass any young Mexican-American man observed in St. James Park suspected of being affiliated with a rival gang, but would not give such treatment to Mexican-Americans in the park who were not suspected of having such an affiliation. Even the People, in their appellate brief, acknowledge that "the members of other gangs . . . were SJB's prime adversaries."
+
+In arguing for upholding the convictions for committing the specified offenses as crimes of terrorism, the People rely heavily on evidence that the SJB sometimes preyed on area residents who were not gang members. Specifically, the People point to evidence that the SJB robbed patrons of a certain restaurant on Jerome Avenue and engaged in extortion of a local house of prostitution. However, the People identify nothing in the record from which it could reasonably be inferred that the actions of defendant and the other SJB members on the night in question were motivated by the desire to intimidate the Mexican-American community of the St. James Park area. Indeed, as previously noted (see n 6, supra), the incident did not even occur within the SJB's territory, the home of the "civilian population" that, under the People's theory, the SJB intended to intimidate or coerce. Moreover, it should be borne in mind that a "crime of terrorism" within the meaning of Penal Law § 490.25 (1) is not established unless the alleged terroristic intent is connected to the particular specified offense underlying the charge. To paraphrase a familiar legal maxim: " 'Proof of [terroristic intent] in the air, so to speak, will not do' " (Palsgraf v Long Is. R.R. Co., 248 NY 339, 341 [1928] [citation omitted]). In any event, here, we see no evidence of intent to terrorize the Mexican-American community of the St. James Park area generally,{**81 AD3d at 10} whether connected to or disconnected from the underlying specified offenses.[FN7]
+[*6]
+
+To the extent the People argue, as they did at trial, that members of other Mexican-American gangs in the SJB's area of the Bronx qualify as "a civilian population" under Penal Law § 490.25 (1), we find this argument unavailing. While the term "a civilian population" might be literally susceptible to being applied to gang members of a particular ethnicity in a particular urban neighborhood or group of neighborhoods,[FN8]
+
+the context of the Anti-Terrorism Act weighs against stretching the meaning of the language to cover such a narrowly defined subcategory of individuals. The direct legislative history of the Anti-Terrorism Act does not focus on the meaning of the term "a civilian population" in article 490 (see Senate Mem in Support of Senate Bill S70002, 2001 McKinney's Session Laws of NY, at 1492-1494), but it is clear from the legislative findings set out at Penal Law § 490.00 that the Legislature intended to address extraordinary criminal acts perpetrated for the purpose of intimidating a broad range of people, not a narrowly defined group of particular individuals whom the criminal actor happens to regard as adversaries. The first paragraph of Penal Law § 490.00 reads as follows:
+
+
+"The devastating consequences of the recent barbaric attack on the World Trade Center and the{**81 AD3d at 11} Pentagon underscore the compelling need for legislation that is specifically designed to combat the evils of terrorism. Indeed, the bombings of American embassies in Kenya and Tanzania in 1998, the federal building in Oklahoma City in 1995, Pan Am Flight number 103 in Lockerbie in 1988, the 1997 shooting atop the Empire State Building, the 1994 murder of Ari Halberstam on the Brooklyn Bridge and the 1993 bombing of the World Trade Center, will forever serve to remind us that terrorism is a serious and deadly problem that disrupts public order and threatens individual safety both at home and around the [*7]world. Terrorism is inconsistent with civilized society and cannot be tolerated."[FN9]
+
+
+To decide this appeal, we need not define the minimum size of "a civilian population" that may be the target of terrorism for purposes of Penal Law article 490.[FN10]
+
+Rather, it suffices to observe that the term "to intimidate or coerce a civilian population," in the context of the aforementioned legislative findings, implies an intention to create a pervasively terrorizing effect on people living in a given area, directed either to all residents of the area or to all residents of the area who are members of some broadly defined class, such as a gender, race, nationality, ethnicity, or religion. The intention by a gang member to intimidate members of rival gangs, when not accompanied by an{**81 AD3d at 12} intention to send an intimidating or coercive message to the broader community, does not, in our view, meet the statutory standard (cf. Muhammad v Commonwealth, 269 Va 451, 498-499, 619 SE2d 16, 42-43 [2005], cert denied 547 US 1136 [2006] [under Virginia Code § 18.2-46.4, which defines an "act of terrorism" as any of certain crimes "committed with the intent to . . . intimidate the civilian population at large," the term " 'population at large' is . . . [*8]intended to require a more pervasive intimidation of the community rather than a narrowly defined group of people"]).
+
+The foregoing conclusion is reinforced by the legislative history and judicial construction of similar definitions of terroristic intent in certain earlier-enacted federal statutes from which Penal Law article 490's definition of such intent appears to have been derived in relevant part (see Greenberg, supra, § 39:1, at 1738 [in enacting article 490 after 9/11, "the Legislature was able to act quickly because of the model provided by existing federal antiterrorism legislation"]; Donnino, Practice Commentary, McKinney's Cons Laws of NY, Book 39, Penal Law § 490.10, at 299 [2008 ed] ["The New York definition of 'act of terrorism' was drawn from the federal definition of 'international terrorism' "]).[FN11]
+
+
+Evidently, the "intent" language at issue on this appeal originated with the Foreign Intelligence Surveillance Act (50 USC § 1801 et seq. [FISA]) as originally enacted in 1978 (Pub L 95-511, § 101, 92 US Stat 1783, 1783-1784 [1978]; see Perry, The Numerous Federal Legal Definitions of Terrorism: The Problem of Too Many Grails, 30 J Legis 249, 255 [2004] ["The oldest statutory definition of terrorism in federal law is the FISA definition of 'international terrorism' "]). FISA's definitional section provides, in pertinent part, that activities constitute "international terrorism" if, among other things, they "appear to be intended" to accomplish one of the same three goals now delineated in Penal Law § 490.25 (1), including the intent "to intimidate or coerce a civilian population" (50 USC § 1801{**81 AD3d at 13} [c] [2] [A]).[FN12]
+
+The relevant legislative [*9]history offers as examples of such terrorism "the detonation of bombs in a metropolitan area" and "the deliberate assassination of persons to strike fear into others to deter them from exercising their rights" (S Rep 95-604[I], 95th Cong, 1st Sess, at 29-30, reprinted in 1978 US Code Cong & Admin News, at 3931; S Rep 95-701, 95th Cong, 2d Sess, at 30, reprinted in 1978 US Code Cong & Admin News, at 3999). These examples do not bring to mind violence between rival criminal gangs motivated chiefly by the desire to establish dominance between the gangs themselves rather than by the desire to create an intimidating impression on residents of the area generally.
+
+In 1986, Congress enacted a statute extending federal prosecutorial jurisdiction over certain crimes committed against American nationals abroad, but included a provision limiting prosecution of such offenses to cases where the Department of Justice certifies that the offense "was intended to coerce, intimidate, or retaliate against a government or a civilian population" (18 USC § 2332 [d], originally enacted as 18 USC § 2331 [e] by Pub L 99-399, § 1202 [a], 100 US Stat 853, 896-897). The conference report on the bill specifically notes that it was not intended that the legislation "reach nonterrorist violence inflicted upon American victims. Simple barroom brawls or normal street crime, for example, are not intended to be covered by this provision" (HR Conf Rep 783, 99th Cong, 2d Sess, at 87, reprinted in 1986 US Code Cong & Admin News, at 1960 [emphasis added]). The report further states: "The term 'civilian population' includes a general population as well as other specific identifiable segments of society such as the membership of a religious faith or of a particular nationality, to give but two{**81 AD3d at 14} examples" (id. at 88, reprinted in 1986 US Code Cong & Admin News, at 1961). The explanation of the term "civilian population" as referring to "a general population" or to a "segment[ ] of society" as broad as a religion or nationality seems inconsistent with applying the term to a category as narrow as gang members in a particular urban neighborhood or group of neighborhoods.
+
+Subsequently, in 1992, Congress enacted current 18 USC § 2331 (1) (Pub L 102-572, § 1003 [a] [3], 106 US Stat 4506, 4521). This provision defines "international terrorism," as relevant to this case, in substantially the same fashion as FISA defines the term, as discussed above. Like FISA and the subsequently enacted Penal Law § 490.25 (1), 18 USC § 2331 (1) provides that terroristic intent includes the intent "to intimidate or coerce a civilian population" (18 USC § 2331 [1] [B] [i]). The legislative report on the bill simply notes that section 2331's "definition of international terrorism is drawn from [FISA]" (S Rep 102-342, 102d Cong, 2d Sess, [*10]at 45).[FN13]
+
+
+Consistent with the foregoing legislative history, courts construe the term "to intimidate or coerce a civilian population" under federal terrorism laws to refer to attempts to intimidate the general public in a given area, or a broad category of the general public in a given area (see Boim v Holy Land Found. for Relief & Dev., 549 F3d 685, 694 [7th Cir 2008 en banc], cert denied sub nom. Boim v Salah, 558 US —, 130 S Ct 458 [2009]{**81 AD3d at 15} [donations supporting Hamas attacks in Israel "appear to be intended . . . to intimidate or coerce a civilian population" under 18 USC § 2331 (1) (B) (i)]; United States v Jordi, 418 F3d 1212, 1216-1217 [11th Cir 2005], cert denied 546 US 1067 [2005] [defendant convicted of attempting to bomb abortion clinics acted with motive "to intimidate or coerce a civilian population" so as to warrant upward sentence departure under US Sentencing Guidelines Manual § 3A1.4 (a) and Commentary n 4]). By contrast, "drive-by shootings and other street crime" and "ordinary violent crimes, for example, robberies or personal vendettas," do not satisfy the intent element of "international terrorism" under 18 USC § 2331 (1) (Linde v Arab Bank, PLC, 384 F Supp 2d 571, 581 n 7 [ED NY 2005] [noting that plaintiffs would not prevail on their civil claims to recover for international terrorism if they "fail(ed) to prove that these acts were terror attacks, rather than 'mere' street crime"]).
+
+By no means do we minimize either the heinous nature of the criminal conduct at issue or [*11]the stark tragedy of its consequences. We see no evidence, however, that defendant's conduct was motivated by an intention to intimidate or coerce the Mexican-American community in the relevant area of the Bronx. Rather, on this record, all that can be concluded is that defendant acted for the purpose of asserting his gang's dominance over its particular criminal adversaries, namely, members of rival gangs. Such conduct falls within the category of ordinary street crime, not terrorism, even under the broad terms of Penal Law § 490.25.[FN14]
+
+
+We reject defendant's argument that the trial evidence was insufficient to support the judgment insofar as he was convicted of the specified offenses (attempted murder, manslaughter and weapon possession) as lesser included offenses underlying the terrorism charges and of conspiracy. The People's chief fact witness was the aforementioned ES, a leader of the SJB and an accomplice in the crimes with which defendant was charged.[FN15]
+
+It was permissible for defendant to be convicted based on ES's testimony because that testimony found support in{**81 AD3d at 16} "corroborative evidence tending to connect the defendant with the commission of [the] offense[s]" (CPL 60.22 [1]).
+
+In summary, the key points of ES's testimony were as follows: (1) he, defendant and other SJB members attended the party; (2) defendant participated in the meeting at the party where the SJB members planned to attack the aforementioned Miguel as he left the building; (3) defendant agreed at the meeting to hold a gun and, if necessary, shoot during the fight; (4) another SJB leader gave defendant a gun; and (5) during the subsequent fight with Miguel and his companions outside the church, ES saw defendant fire the gun when another SJB member called out for him to do so. The chief evidence generally corroborating ES's account and tending to connect defendant with the commission of the crimes was defendant's own written and videotaped statements, which he gave to the police when they first questioned him three days after the incident. In these statements, defendant claimed that he had attended the party with his fellow SJB members; that he had seen a fight (involving other SJB members, but not him) outside the church after the party; that, during the fight, a female SJB member (GS) gave a male SJB member a gun and the latter fired it and then handed it to defendant; that defendant ran while holding the gun for "a little bit" and then handed the gun back to GS "since [he] did not want to [*12]have any type of problems."[FN16]
+
+
+Notwithstanding the obvious conflicts between the two accounts, defendant's statements sufficiently corroborate the testimony of ES to satisfy CPL 60.22 (1). The statute requires only that the corroborative evidence " 'tend[ ] to connect the defendant with the commission of the crime in such a way as may reasonably satisfy the jury that the accomplice is telling the truth' " (People v Reome, 15 NY3d 188, 192 [2010], quoting People v Dixon, 231 NY 111, 116 [1921]). Moreover, " '[t]he role of the additional evidence is only to connect the defendant with the commission of the crime, not to prove that he committed it' " (Reome, 15 NY3d at 192, quoting People v Hudson, 51 NY2d 233, 238 [1980]). Here, although defendant denied having played a role in either the fighting or the shooting (or the planning of such violence), his statements corroborated ES's testimony, and{**81 AD3d at 17} tended to connect defendant with the commission of the crime, in at least three crucial respects. Specifically, in his statements, defendant admitted his membership in the SJB gang, placed himself at the crime scene and admitted having held a gun there. This sufficed to provide the necessary " 'slim corroborative linkage' " (Reome, 15 NY3d at 192, quoting People v Breland, 83 NY2d 286, 294 [1994]) to the accomplice's testimony.
+
+The corroboration requirement having been met, it was the jury's role to determine ES's credibility in light of his criminal background, his motive to cooperate with the prosecution, and the inconsistencies between his testimony and that of other witnesses. We note that, while defendant points to evidence suggesting that another SJB member fired a gun in the incident, the jury was free to reject such evidence and, in any event, was entitled to convict defendant of attempted murder and manslaughter on an "acting in concert" theory (Penal Law § 20.00) even if he did not fire any of the shots. Further, on our review of the facts pursuant to CPL 470.15 (5), we find that the judgment of conviction is not against the weight of the evidence.[FN17]
+[*13]
+
+Defendant argues that he was deprived of a fair trial by the manner in which the court referred to 9/11 in its remarks to prospective jurors prior to voir dire. The court, seeking to stir the panel members' sense of civic duty, made a standard reference to jury service as a way to "speak back" to the 9/11 terrorists. Shortly thereafter, the court explained that the terrorism charge against defendant "does not mean that [he] is accused of committing a crime aimed at attacking the government or whose purpose is to make a political statement." The court then read the definition of a crime of terrorism under Penal Law § 490.25, and asked the panel whether, "remembering what I said about serving on a jury [being] one of the ways of responding to the terrorists of [9/11], . . . are there any among you . . . who believe it would be impossible to serve fairly and impartially in this particular case?"
+
+{**81 AD3d at 18}The claim of error based on the court's remarks to the voir dire panel is unpreserved and we decline to review it in the interest of justice. As an alternative holding, we reject it on the merits. While it would have been preferable, in a case involving a terrorism charge, for the court to forgo the reference to jury service as a way to "speak back" to the 9/11 terrorists, we think it highly unlikely that the jurors misinterpreted this hortatory rhetoric as an invitation (in the words of defendant's brief) to "vindicate their own rage at the [9/11] terrorists by their treatment of [defendant's] case" that "undermined the impartiality of the proceedings."[FN18]
+
+Nothing in the court's remarks likened defendant to the 9/11 terrorists; on the contrary, the court specifically explained that defendant was not being charged with politically motivated terrorism. Significantly, the trial took place a full six years after 9/11, and defendant does not claim that anything the jurors learned of his background might have caused them to connect him to the 9/11 terrorists. Further, given the vast scale of the 9/11 catastrophe, the distinction between those attacks and the crimes charged here was unmistakable.
+
+While acknowledging that the claim is unpreserved, defendant asks that he be granted a new trial in the interest of justice on the further ground that the admission into evidence (without objection by defense counsel) of Detective Shanahan's testimony as a purported expert on gang behavior, and of Shanahan's PowerPoint presentation on the SJB's history and criminal activity, [*14]incorporated numerous hearsay statements, contrary to the dictates of the Confrontation Clause of the Sixth Amendment as authoritatively construed by Crawford v Washington (541 US 36 [2004]). The record establishes, however, that, as the People maintain, defendant not only failed to raise such objections, but also affirmatively waived them and, indeed, sought to use the evidence in question for his own strategic ends. It is evident that this was part of a coherent strategy under which the defense acknowledged defendant's admitted{**81 AD3d at 19} gang membership and gun possession but maintained that he was a lower-tier member who was not implicated in most of the gang's criminal activity, lacked any responsibility for the shootings at issue, and did not share the terroristic intent attributed to the gang as a whole.[FN19]
+
+Under these circumstances, defendant, through counsel, intelligently and knowingly waived his right to complain about the Crawford violation (see Melendez-Diaz v Massachusetts, 557 US —, — n 3, 129 S Ct 2527, 2534 n 3 [2009]), and we decline to exercise our power to review the claim in the interest of justice.
+
+We find unavailing defendant's argument that the performance of his lead trial counsel was so deficient as to deny him effective assistance of counsel (see People v Benevento, 91 NY2d 708, 713 [1998]; People v Baldi, 54 NY2d 137, 147 [1981]; see also Strickland v Washington, 466 US 668, 687-688 [1984]). To the extent defendant argues that counsel failed to make certain objections or to call certain witnesses, we presume, in the absence of a complete record developed by a motion to vacate the judgment pursuant to CPL 440.10, that counsel exercised professional judgment and strategic discretion in determining how to conduct the defense. In fact, the existing record reflects that counsel followed a coherent strategy that sought to show that defendant committed no crime beyond weapon possession, a charge that he was unlikely to defeat given the denial of his suppression motion. Further, counsel competently attacked the credibility of ES, the People's main witness, and brought out the inconsistencies between his testimony and that of other witnesses. Ultimately, counsel obtained an acquittal on the second-degree murder charge, the most serious count of the indictment. While we do not condone counsel's absences and tardiness, defendant fails to establish that these had any impact on the defense.
+
+Defendant also argues for a new trial, or, at a minimum, reversal of the attempted second-degree murder conviction, on the ground that the verdict is irreconcilably inconsistent insofar as he was convicted of attempted second-degree murder with respect to the young man who was paralyzed at the same time he was acquitted of second-degree murder with respect to the girl who was killed. This claim is unpreserved, as defendant failed to raise it before the jury was discharged, when it would have been possible to remedy any defect in the verdict by resubmitting{**81 AD3d at 20} the charges to the jury as provided by CPL 310.50 (2) (see People v Alfaro, 66 NY2d 985, 987 [1985]; People v Satloff, 56 NY2d 745, 746 [1982]; People v Stahl, 53 NY2d 1048, 1050 [1981]). We note that the failure to object to the verdict as inconsistent at the appropriate time may well have been a conscious tactical choice by defense counsel, since resubmitting the case to [*15]the jury to cure the inconsistency could have resulted in the acquittal on the murder charge being changed to a conviction (see People v Alfaro, 66 NY2d at 987; People v Maldonado, 11 AD3d 114, 117 [2004], lv denied 3 NY3d 758 [2004]). Under the circumstances, we decline to review this claim in the interest of justice.
+
+We reject defendant's various arguments that his statements to the police should have been suppressed on his pretrial motion. We see no grounds for disturbing the suppression court's determination, based on credible evidence, that the police committed no violation of Payton v New York (445 US 573 [1980]) in entering defendant's apartment when they first approached him for questioning. As the suppression court properly found, the police entered the apartment with the implicit consent of the elderly man (apparently, defendant's stepfather) who met them at the door (see People v Pacheco, 292 AD2d 242 [2002], lv denied 98 NY2d 679 [2002]; People v Brown, 234 AD2d 211, 212, 214 [1996], affd 91 NY2d 854 [1997]). Defendant also urges that the police should have given him Miranda warnings when they began to interview him after he voluntarily accompanied them to the precinct. The record, however, fully supports the suppression court's determination that a reasonable innocent person in defendant's situation would have believed, at the inception of the interview, that the police (who never displayed their weapons) "were still in the process of gathering information about the alleged incident prior to taking any action" (People v Dillhunt, 41 AD3d 216, 217 [2007], lv denied 10 NY3d 764 [2008]). Accordingly, the suppression court properly concluded that defendant was not in custody when the interview began and that the police were not required to read the Miranda warnings at that point (see People v Bennett, 70 NY2d 891, 893-894 [1987]).[FN20]
+
+As there was no initial Miranda violation, there is no need to consider whether defendant's subsequent statements were tainted. Nor is there any merit to defendant's argument that the conditions of his detention were so{**81 AD3d at 21} excessive and unreasonable as to render his statements involuntary.
+
+Finally, as the case is being remitted for resentencing on the reduced counts of the judgment of conviction, defendant's argument for reduction of his aggregate sentence of 40 years to life is academic.
+
+Accordingly, the judgment of the Supreme Court, Bronx County (Michael A. Gross, J.), rendered December 10, 2007, convicting defendant, after a jury trial, of manslaughter in the first degree as a crime of terrorism, attempted murder in the second degree as a crime of terrorism, criminal possession of a weapon in the second degree as a crime of terrorism and conspiracy in the second degree, and sentencing him to consecutive terms of 20 years to life on the manslaughter count and the attempted murder count, and to concurrent terms of 15 years on the weapon possession count and 5 to 15 years on the conspiracy count, should be modified, on the law, to reduce the conviction for manslaughter in the first degree as a crime of terrorism to manslaughter in the first degree, the conviction for attempted murder in the second degree as a crime of terrorism to attempted murder in the second degree, and the conviction for criminal [*16]possession of a weapon in the second degree as a crime of terrorism to criminal possession of a weapon in the second degree, and, as so modified, affirmed, and the case remitted to Supreme Court with directions to resentence defendant on the reduced counts of the judgment.
+
+Mazzarelli, J.P., Catterson and Abdus-Salaam, JJ., concur.
+
+Judgment, Supreme Court, Bronx County, rendered December 10, 2007, modified, on the law, to reduce the conviction for manslaughter in the first degree as a crime of terrorism to manslaughter in the first degree, the conviction for attempted murder in the second degree as a crime of terrorism to attempted murder in the second degree, and the conviction for criminal possession of a weapon in the second degree as a crime of terrorism to criminal possession of a weapon in the second degree, and, as so modified, affirmed, and the case remitted to Supreme Court with directions to resentence defendant on the reduced counts of the judgment.
+
+
+[Recalled and vacated, see __ AD3d __, 2011 NY Slip Op 04537.]
+
+
+Footnotes
+
+
+
+
+Footnote 1: Penal Law § 490.25 (1) reads in full:
+
+"A person is guilty of a crime of terrorism when, with intent to intimidate or coerce a civilian population, influence the policy of a unit of government by intimidation or coercion, or affect the conduct of a unit of government by murder, assassination or kidnapping, he or she commits a specified offense."
+
+
+The latter two kinds of terroristic intent specified by the statute are not at issue in this case. We note that substantially identical definitions of terroristic intent are set forth in Penal Law § 490.05 (1) (defining the term "act of terrorism," which does not appear in section 490.25), in Penal Law § 490.20 ("Making a terroristic threat"), and in certain sections added to article 490 in 2004 (L 2004, ch 1) that define offenses involving chemical or biological weapons (Penal Law §§ 490.40, 490.45, 490.50, 490.55).
+
+
+
+
+Footnote 2: We note that the area in question can only be loosely described as the vicinity of St. James Park, since the park is about 20 blocks to the north of 170th Street, the southern extremity of the SJB's territory (see Hagstrom, New York City 5 Borough atlas, at 19 [2001] [showing St. James Park on Jerome Avenue between 190th and 193rd Streets]).
+
+
+
+
+Footnote 3: Two prosecutions for the article 490 offense of making a terroristic threat (Penal Law § 490.20, which defines terroristic intent in the same terms as section 490.25) have given rise to reported decisions (see People v Van Patten, 48 AD3d 30 [3d Dept 2007], lv denied 10 NY3d 845 [2008] [conviction reversed on a Miranda issue]; People v Jenner, 39 AD3d 1083 [3d Dept 2007], lv denied 9 NY3d 845 [2007] [conviction affirmed]; People v Van Patten, 8 Misc 3d 224 [2005] [denying motion to dismiss or reduce charges]). In each of those cases, the terroristic intent involved was the intent to "influence the policy of a unit of government by intimidation or coercion, or affect the conduct of a unit of government by murder, assassination or kidnapping" (see Van Patten, 48 AD3d at 33; Jenner, 39 AD3d at 1085). Again, it is undisputed that terrorism directed at the government is not at issue in the present case.
+
+
+
+
+Footnote 4: Although legislators' postenactment statements generally are not cognizable in determining legislative intent (see Civil Serv. Empls. Assn. v County of Oneida, 78 AD2d 1004, 1005 [1980], lv denied 53 NY2d 603 [1981]), defendant points to the reported comments of certain legislators questioning the prosecution of this case under the Anti-Terrorism Act (see Williams, In Bronx Murder Case, Use of New Terrorism Statute Fuels Debate, New York Times, July 8, 2006, at B1 [reporting that Senator Michael Balboni, the sponsor of the legislation, "said he had envisioned 'mass effect' cases of terrorism like the World Trade Center attack and the Oklahoma City bombing in 1995 when he submitted the bill," and described the use of the statute in the instant case as an " 'unanticipated application' "]; Williams, Prosecutors Link Suspect in Girl's Killing to Gang in Bronx, New York Times, Oct. 2, 2007, at B2 [reporting that unidentified "legislators who voted for the bill said they believed it was intended to prosecute members of Al Qaeda"]). Defendant also draws attention to a report that, at the time the Anti-Terrorism Act was passed, Assembly Speaker Sheldon Silver, while hailing the bill as "an important message," expressed doubt that there would ever be a prosecution under it (see Caher, State Legislature Approves Tough Anti-Terrorism Laws, NYLJ, Sept. 18, 2001, at 1, col 3). In the same vein, commentators have questioned "whether [article 490] is merely a symbolic gesture or an invaluable supplement to Federal law in the fight against terrorism" (Greenberg et al., New York Criminal Law § 39:1, at 1739 [6 West's NY Prac Series 3d ed 2007]). With reference to this particular case, the same commentators opined: "It is doubtful that the Legislature had in mind an entity or locale as small as a neighborhood in the Bronx when it used the phrase 'intimidate or coerce a civilian population' in . . . Article 490" (id. § 39:2 n 4, at 1741; see also Jim, Note, "Over-Kill": The Ramifications of Applying New York's Anti-Terrorism Statute Too Broadly, 60 Syracuse L Rev 639 [2010] [discussing the instant case, inter alia]).
+
+
+
+
+Footnote 5: This argument is preserved for review as a matter of law. In moving for dismissal at the close of the People's case, defense counsel argued that it had not been proven that defendant acted with intent to intimidate or coerce a civilian population because "[t]he evidence adduced at the trial was that the activity of the gang was directed at rival gangs, almost exclusively."
+
+
+
+
+Footnote 6: It appears that this location was well outside the SJB's territory, the eastern boundary of which was Webster Avenue, according to the People's evidence (see Hagstrom, New York City 5 Borough atlas [2001], at 21 [showing the southwestern terminus of McGraw Avenue in or near the Parkchester section, about two miles to the east of Webster Avenue]; Williams, In Bronx Murder Case, Use of New Terrorism Statute Fuels Debate, New York Times, July 8, 2006, at B1 [reporting that the christening party was held at "St. Paul's Lutheran Church in the Parkchester neighborhood, a few miles east of where (the SJB) usually hung out"]).
+
+
+
+
+Footnote 7: We note that the fact that the SJB sometimes victimized area residents who were not gang members (for example, by robbing them) does not equate to an intention to terrorize those victims within the meaning of the statute. If the term "with intent to intimidate or coerce a civilian population" included the intent to intimidate or coerce the direct victims of a particular crime, any specified offense involving intimidation or coercion of a group of people (such as a bank robbery) would constitute a crime of terrorism. We do not believe that the Legislature intended such a result. The People themselves appear to recognize that to constitute a crime of terrorism, the "civilian population" that the actor intends to intimidate or coerce by committing the underlying specified offense must be some group of people other than the direct victims of the crime.
+
+
+
+
+Footnote 8: See American Heritage Dictionary 1366 (4th ed 2006) (defining "population" as, inter alia, "[t]he total number of inhabitants constituting a particular race, class, or group in a specified area"); New Oxford American Dictionary 1320 (2d ed 2005) (defining same as, inter alia, "a particular section, group or type of people . . . living in an area or country"); Random House Webster's Dictionary 1505 (2d ed 2001) (defining same as, inter alia, "the number or body of inhabitants of a particular race or class in a place"); Webster's Third New International Dictionary 1766 (2002) (defining same as, inter alia, "a body of persons having some quality or characteristic in common and usu[ally] thought of as occupying a particular area").
+
+
+
+
+Footnote 9: Although there were relatively few direct victims of the Empire State Building shooting and the murder on the Brooklyn Bridge, the People acknowledge that these crimes were ideologically motivated and presumably were intended by the perpetrators to attract the attention of, and intimidate, a large public audience. It should be noted that, while the terrorist acts enumerated in the legislative findings were all committed out of ideological, political or religious motives, section 490.25 (1) does not define the intent required for a crime of terrorism with reference to motivations of these kinds. In the aforementioned Jenner case (see n 3, supra), where the Third Department affirmed a conviction for making a terroristic threat under section 490.20 (which defines the requisite terroristic intent in the same terms as are used by section 490.25), the conduct at issue plainly was not animated by ideological, political or religious motives (see 39 AD3d at 1084-1085 [purpose of defendant's threat was to influence the disposition of the custody of his girlfriend's child]). Finding that the Jenner defendant's conduct fell within the plain terms of the statute, the Third Department rejected the argument "that his conduct was not what the Legislature had in mind when it enacted this statute after [9/11] and he [therefore] should not be labeled a terrorist" (id. at 1086).
+
+
+
+
+Footnote 10: The People have not directed our attention to evidence of the size of the "civilian population" that defendant allegedly was attempting to "intimidate or coerce," whether that population is defined as all Mexican-American residents of the SJB's territory or as members of rival gangs.
+
+
+
+
+Footnote 11: The People seem to argue that federal statutory definitions of terrorism have no relevance to the construction of Penal Law § 490.25 (1), even if the very language of section 490.25 (1) to be construed is identical to, and presumably derived from, the preexisting federal statutes. If this is the People's position, we reject it. In this regard, contrary to the People's contention, CPL 20.40 (1) (a), which merely provides that a county has jurisdiction to prosecute an offense if "[c]onduct occurred within such county sufficient to establish . . . [a]n element of such offense," casts no discernible light on the meaning of the term "civilian population" in Penal Law § 490.25 (1).
+
+
+
+
+Footnote 12: FISA's definition of "international terrorism" has not been amended since its original enactment in 1978 (compare 50 USC § 1801[c] with Pub L 95-511, § 101, 92 US Stat 1783, 1784). We note that one commentator has made the following criticism of FISA's use of the term "civilian population" in this context:
+
+
+
+"What entities . . . would fall within the term 'civilian population' in subparagraph 2 (A) [of 50 USC § 1801 (c)]? The entire population of a given country? The population of several countries taken together? A particular organized group within a country, such as a church or labor union? A random assortment of civilians, such as the collection of persons who happen to be standing in a bank during an armed robbery? The legislative history is not particularly helpful on this or other potential internal problems of the FISA definition" (Levitt, Is "Terrorism" Worth Defining?, 13 Ohio NU L Rev 97, 104-105 n 31 [1986]).
+
+
+
+
+Footnote 13: Language referring to an intent "to intimidate or coerce a civilian population" appears in other definitions of terrorism in federal law (see e.g. 6 USC § 101 [16] [B] [i] [Homeland Security Act of 2002]; 18 USC § 921 [a] [22] [C] [i] [Firearms Owners' Protection Act]; 18 USC § 2331 [5] [B] [i] [definition of "domestic terrorism" added by USA PATRIOT Act of 2001, Pub L 107-56, § 802 (a), 115 US Stat 272, 376 (Oct. 26, 2001)]; US Sentencing Guidelines Manual § 3A1.4 [a] and Commentary n 4 [sentencing guidelines]). Such provisions (some of which, as can be seen from the foregoing references, postdate New York's Anti-Terrorism Act) do not appear to cast much additional light on the meaning of the same language in Penal Law article 490. There are also a number of provisions of federal law defining terrorism without reference to an intent "to intimidate or coerce a civilian population" (see e.g. 18 USC § 2332b [g] [5] [A] [defining a "Federal crime of terrorism" as conduct violating specified criminal statutes that "is calculated to influence or affect the conduct of government by intimidation or coercion, or to retaliate against government conduct"]; 22 USC § 2656f [d] [2] [statute directing State Department to transmit certain reports on terrorism defines "terrorism" as "premeditated, politically motivated violence perpetrated against noncombatant targets by subnational groups or clandestine agents"]). The various definitions of terrorism in federal law are discussed in Perry, The Numerous Federal Legal Definitions of Terrorism: The Problem of Too Many Grails (30 J Legis 249 [2004], supra).
+
+
+
+
+Footnote 14: Since we find that the evidence was insufficient to sustain the convictions for crimes of terrorism under section 490.25, we need not reach defendant's argument that the statute is unconstitutionally vague as applied to him.
+
+
+
+
+Footnote 15: ES testified pursuant to a cooperation agreement with the People, under which, in exchange for his testimony, his guilty plea to murder in the second degree (and his sentence of 15 years to life) would be reduced to a plea to manslaughter in the first degree (and a sentence of 15 years).
+
+
+
+
+Footnote 16: GS, another accomplice, was also called as a witness by the People. GS testified that she brought a gun to the party at the direction of SJB leaders, that she gave the gun to defendant toward the end of the party, and, as she fled after the shooting (which she said she did not witness), defendant called out her name and handed the gun back to her.
+
+
+
+
+Footnote 17: We reject defendant's conclusory argument that "spillover prejudice" from the now-dismissed terrorism charges, and from the evidence admitted (without objection) in support thereof, was so great as to render it unfair to sustain the convictions on the lesser included specified offenses. First, we point out that this argument was not made to the trial court and is therefore unpreserved, and we decline to review it in the interest of justice. As an alternative holding, we reject it on the merits, as defendant fails to demonstrate that the jury was unable to properly consider the underlying charges. In fact, the jury demonstrated this ability in rendering a verdict acquitting defendant of the highest charge against him (murder in the second degree).
+
+
+
+
+Footnote 18: One panel member asked whether the court was suggesting that 9/11 and defendant's alleged crimes "have something in common," and objected that the way the court was "positioning it" was, in her view, not "fair." The court responded, sua sponte, by immediately excusing that individual. We agree that the court, at that juncture, should have clarified, for the benefit of the remaining panel members, that no connection was being drawn between 9/11 and the charges against defendant. However, the panel member's objection actually shows that she fully understood that 9/11 had nothing to do with the charges against defendant.
+
+
+
+
+Footnote 19: In fact, Shanahan's testimony concerned the now-dismissed terrorism charge almost exclusively.
+
+
+
+
+Footnote 20: During the course of the interview, before defendant gave any written statement, the police did read him the Miranda warnings.
+
+
+
+
+

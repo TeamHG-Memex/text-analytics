@@ -1,0 +1,46 @@
+
+	People v Williams
+	2007 NY Slip Op 01333 [37 AD3d 626]
+	February 13, 2007
+	Appellate Division, Second Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 11, 2007
+
+
+
+
+
+
+	The People of the State of New York, Respondent,
+v
+Winston W. Williams, Appellant.
+
+
+—[*1]
+
+Randy I. Siper, Montgomery, N.Y., for appellant.
+
+Francis D. Phillips II, District Attorney, Goshen, N.Y. (Andrew R. Kass of counsel), for respondent.
+
+
+
+Appeal by the defendant from a judgment of the County Court, Orange County (DeRosa, J.), rendered February 27, 2001, convicting him of kidnapping in the second degree, coercion in the first degree, unlawful imprisonment in the first degree, criminal mischief in the fourth degree (two counts), criminal possession of a weapon in the fourth degree (two counts), and criminal contempt in the second degree (46 counts), upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant's omnibus motion which was to suppress physical evidence.
+
+Ordered that the judgment is affirmed.
+
+Courts, as a general rule, should remove a public prosecutor only to protect a defendant from "actual prejudice arising from a demonstrated conflict of interest or a substantial risk of an abuse of confidence" (Matter of Schumer v Holtzman, 60 NY2d 46, 55 [1983]; see People v Shinkle, 51 NY2d 417, 421 [1980]; People v Zimmer, 51 NY2d 390 [1980]). The appearance of impropriety, standing alone, might not be grounds for disqualification (see Matter of Schumer v Holtzman, supra). The party seeking removal should demonstrate "actual prejudice or so substantial a risk thereof as could not be ignored" (id., at 55).
+
+Here the first indictment against the defendant was dismissed due to the prosecution's failure to disclose certain Rosario material (see People v Rosario, 9 NY2d 286 [1961], cert denied 368 US 866 [1961]). The material was subsequently turned over to the defense, and a second indictment followed. Contrary to the defendant's contention, this did not constitute the "actual prejudice" necessary to [*2]disqualify the Orange County District Attorney's office from prosecuting him.
+
+The County Court properly denied that branch of the defendant's omnibus motion which was to suppress physical evidence found in the complainant's apartment. Even assuming the defendant had the requisite standing to mount this challenge, the People established at the suppression hearing that they had the complainant's permission to enter her apartment and to remove the evidence therefrom. "It is well settled that the police may lawfully conduct a warrantless search when they have obtained the voluntary consent of a party who possesses the requisite degree of authority and control over the premises or personal property in question" (People v Cosme, 48 NY2d 286, 290 [1979]).
+
+The County Court properly admitted the testimony of several police witnesses regarding the complainant's statement, pursuant to the excited utterance exception to the hearsay rule (see People v Caviness, 38 NY2d 227, 231-232 [1975]; People v Young, 308 AD2d 555, 556 [2003]; People v Cannon, 228 AD2d 513, 514 [1996]).
+
+The defendant's challenge to the legal sufficiency of the evidence is unpreserved for appellate review (see CPL 470.05 [2]; People v Gray, 86 NY2d 10 [1995]). In any event, viewing the evidence in the light most favorable to the prosecution (see People v Contes, 60 NY2d 620 [1983]), we find that it was legally sufficient to establish the defendant's guilt beyond a reasonable doubt. Moreover, upon the exercise of our factual review power (see CPL 470.15 [5]), we are satisfied that the verdict of guilt was not against the weight of the evidence (see People v Romero, 7 NY3d 633 [2006]).
+
+Contrary to the defendant's contention, the prosecutor's remarks during summation were either fair comment on the evidence, permissive rhetorical comment, or responsive to the defense counsel's summation (see People v McHarris, 297 AD2d 824, 825 [2002]; see generally People v Galloway, 54 NY2d 396, 399 [1981]; People v Jones, 9 AD3d 374 [2004]).
+
+The defendant's contention raised in point four of his brief, regarding the alleged failure of the People to disclose certain Rosario material (see People v Rosario, supra), is unpreserved for appellate review and, in any event, is without merit. The defendant's remaining contentions, raised in Points Seven, Eight, and Nine of his brief, regarding certain of the County Court's jury instructions, its allowing the jury to take notes, and the jury's alleged "rush to finish," are without merit. Miller, J.P., Spolzino, Florio and Angiolillo, JJ., concur.
+
+
+

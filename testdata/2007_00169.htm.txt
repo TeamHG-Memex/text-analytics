@@ -1,0 +1,37 @@
+
+	People v Faulkner
+	2007 NY Slip Op 00169 [36 AD3d 1009]
+	January 11, 2007
+	Appellate Division, Third Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 14, 2007
+
+
+
+
+
+
+	The People of the State of New York, Respondent, v Terrance Faulkner, Also Known as Maleek Cancer, Appellant.
+
+
+—[*1]
+Carl J. Silverstein, Monticello, for appellant. 
+P. David Soares, District Attorney, Albany (Laura Marie Conley of counsel), for respondent.
+
+
+
+Kane, J. Appeal from a judgment of the County Court of Albany County (Breslin, J.), rendered June 26, 2001, upon a verdict convicting defendant of the crimes of attempted murder in the first degree, conspiracy in the second degree and assault in the first degree.
+
+After the victim allegedly stole drugs from the codefendant, the codefendant arranged to pay defendant to kill the victim. Defendant shot the victim four times, causing serious injuries. A jury convicted defendant and his codefendant of attempted murder in the first degree, conspiracy in the second degree and assault in the first degree. This Court previously affirmed the codefendant's judgment of conviction (People v Schwing, 9 AD3d 685 [2004], lv denied 3 NY3d 742 [2004]). We now address defendant's appeal.
+
+Defendant's right to a speedy trial was not violated. Statutory speedy trial rights only apply to time periods following the commencement of the criminal action (see CPL 30.20, 30.30). Defendant was arrested for the instant crimes on April 3, 2000, the indictment was handed down on April 21, 2000 and the People's statement of readiness dated April 25, 2000 was effective upon defendant's arraignment on May 3, 2000. Defendant does not point to any other time periods chargeable to the People. This period of one month is well under the statutory six-month period (see CPL 30.30 [1] [a]). The delay between the commission of these crimes in [*2]1997 and defendant's arrest in 2000 did not violate his constitutional speedy trial right, as the delay was occasioned by the continuing police investigation, the instant crimes were serious, and defendant did not demonstrate any prejudice due to the delay (cf. People v Taranovich, 37 NY2d 442, 445 [1975]; People v Garcia, 33 AD3d 1050, 1052-1053 [2006]).
+
+As a contrary result could have been reached under the evidence, based on our independent review, while giving deference to the jury's credibility determinations, the weight of the evidence supports the jury's conclusion that defendant was the shooter (see People v Romero, 7 NY3d 633, 643 [2006]; People v Walton, 13 AD3d 729, 730 [2004], lv denied 4 NY3d 804 [2005]). The victim identified defendant as the shooter, as well as having identified the perpetrator at the time of the incident as a member of the Cancer family. Witnesses testified about conversations between defendant and his codefendant regarding the codefendant's desire to get back at the victim for stealing drugs from him, as well as defendant's statements that he could take care of his codefendant's problem if the price was right. Prior to the incident, defendant was seen at the bar where the shooting occurred, had borrowed his girlfriend's car to travel to the bar and lost the car keys. He had to return at daylight to retrieve the car from a nearby parking lot, and police found the girlfriend's car keys at the scene. The shooter was identified by onlookers as a black man in a sweatshirt. Defendant, a black male, was seen by police soon after the shooting walking near the scene wearing a T-shirt, but he retrieved a gun wrapped in his sweatshirt from nearby bushes when he went to pick up the car. That morning, defendant told his girlfriend that he needed to pick up the money that his codefendant was paying him, he collected some money and stated, "[n]ice doing business with you" to his codefendant. The weight of this evidence supported the jury's verdict on each count.
+
+Defendant's conviction for assault in the first degree need not be dismissed as it is not a lesser included offense of attempted murder in the first degree. Under the subdivisions charged here, assault in the first degree (see Penal Law § 120.10 [1]) is not a lesser included offense of attempted murder in the first degree (see Penal Law §§ 110.00, 125.27 [1] [a] [vi]), because it is theoretically possible to attempt to murder a person without using a dangerous instrument or deadly weapon and without causing serious physical injury (see People v Miller, 6 NY3d 295, 302 [2006]; People v Reed, 236 AD2d 866, 867 [1997], lv denied 89 NY2d 1099 [1997]; People v Chapman, 97 AD2d 381, 382 [1983]; cf. People v Thomson, 13 AD3d 805, 807 [2004], lv denied 4 NY3d 836 [2005]).
+
+Defendant failed to preserve his arguments concerning County Court's jury charge on identification, failure to record voir dire and the charge conference, curtailment of codefendant's cross-examination and response to a jury note. In any event, we find these arguments unpersuasive.
+
+Cardona, P.J., Peters, Carpinello and Rose, JJ., concur. Ordered that the judgment is affirmed.
+
+

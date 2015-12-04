@@ -1,0 +1,139 @@
+
+	People v Tucker
+	2012 NY Slip Op 00136 [91 AD3d 1030]
+	January 12, 2012
+	Appellate Division, Third Department
+	Published by New York State Law Reporting Bureau
+pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, February 29, 2012
+
+
+
+
+
+
+	The People of the State of New York, Respondent, v Darryl G.
+Tucker, Appellant.
+
+
+—[*1]
+
+
+Alfred O'Connor, New York State Defenders Association, Albany, for appellant.
+
+Nicole M. Duve, District Attorney, Canton (Jonathan L. Becker of counsel), for
+respondent.
+
+
+
+McCarthy, J. Appeal from a judgment of the County Court of St. Lawrence County
+(Richards, J.), rendered July 20, 2009, upon a verdict convicting defendant of the crimes of gang
+assault in the first degree, gang assault in the second degree, assault in the first degree and assault
+in the second degree.
+
+The victim was walking with several other college students when they were confronted by
+defendant and his codefendants, Roody Dorfeuille and Jevaughn Francis. Dorfeuille punched the
+victim in the chest, defendant punched him in the face and Francis kicked the victim in the head
+as he fell. Defendant and Dorfeuille continued to hit the victim while he was on the ground.
+When the assault ended, the victim realized that he had been stabbed.
+
+A seven-count indictment charged all three defendants with attempted murder and gang
+assault and assault in the first and second degrees. A jury found defendant and
+Dorfeuille[FN1]
+
+guilty of gang assault in the first and second degrees and assault in the first and second degrees,
+and found Francis guilty of assault in the second degree.[FN2]
+
+County Court sentenced defendant to [*2]concurrent terms of 12
+years in prison followed by five years of postrelease supervision for both gang assault in the first
+degree and assault in the first degree, seven years followed by five years of postrelease
+supervision for gang assault in the second degree, and seven years followed by three years of
+postrelease supervision for assault in the second degree. Defendant appeals.
+
+Initially, as the People concede, gang assault in the second degree is a lesser included offense
+of gang assault in the first degree, and assault in the second degree is a lesser included offense of
+assault in the first degree. Hence, County Court should have submitted the lesser included counts
+to the jury in the alternative (see CPL 300.40 [3] [b]; 300.50 [4]). After the verdict was
+rendered, County Court should have dismissed the counts charging lesser included offenses.
+Accordingly, although no party raised this issue before the trial court, we now dismiss those
+counts in the interest of justice (see
+People v Horton, 46 AD3d 1225, 1228 [2007], lv denied 10 NY3d 766 [2008]).
+
+The evidence was legally insufficient to prove that the victim suffered a serious physical
+injury. That term—an element of assault in the first degree and gang assault in the first and
+second degrees (see Penal Law §§ 120.06, 120.07, 120.10 [1])—is
+defined as a "physical injury which creates a substantial risk of death, or which causes death or
+serious and protracted disfigurement, protracted impairment of health or protracted loss or
+impairment of the function of any bodily organ" (Penal Law § 10.00 [10]). The victim
+suffered eight stab wounds. Although they all bled, at least seven of them were described by
+doctors as superficial. The most serious wound was approximately four inches long and 2½
+inches deep and transected the victim's rectus abdominis muscle, but the bleeding was stopped
+with a few sutures. At the hospital, the victim was alert, never lost consciousness, was not in
+shock, no internal organs were punctured, his blood loss was not massive and his vital signs were
+essentially normal throughout his time in the hospital. The treating emergency room physician
+testified that the wounds collectively "could[ ] have caused substantial risk of death," but he did
+not further explain that opinion or state that the wounds actually did create such a substantial
+risk. The surgeon who sutured the wounds testified that it was "possible" that the victim's
+collective wounds would have been fatal if the injuries had all gone untreated. But he also
+testified that had the most serious wound and the nearest wound to it been left untreated, they
+probably would not have been fatal. Considering the victim's actual injuries, rather than mere
+possibilities or what could have happened, the evidence was insufficient to establish that the
+victim's injuries created a substantial risk of death (see People v Sleasman, 24 AD3d 1041, 1042-1043 [2005];
+People v Rucker, 94 AD2d 948 [1983]).
+
+The other categories of serious physical injury were also not established. The victim
+displayed his chest scars to the jury, and he also had scars on his back, but the record does not
+contain any pictures or descriptions of what the jury saw so as to prove that these scars constitute
+serious or protracted disfigurement (see
+People v McKinnon, 15 NY3d 311, 316 [2010]). The victim testified that he took pain
+medication for a few weeks and continued to feel some pain thereafter, but that he was
+completely pain free about 2½ months after the incident. He testified that his injuries have
+affected his ability to throw a ball and swing a baseball bat, but he did not elaborate on these
+effects and he still intended to try out for his college baseball team. No medical evidence was
+submitted to link his diminished baseball skills to his injuries, as opposed to his reduced ability
+to practice after receiving his injuries. There was no proof of protracted impairment of health or
+function of bodily organs. Thus, the People failed to prove that the victim suffered a serious
+physical injury (see People v Felipe,
+79 AD3d 1454, 1455 [2010]; People v Ham, 67 AD3d 1038, 1040 [2009]; People v Gray, 30 AD3d 771,
+772-773 [2006], lv [*3]denied 7 NY3d 848 [2006]).
+
+The evidence was sufficient to show that defendant, acting in concert with two or more other
+persons who were actually present, intended to inflict serious physical injury and engaged in
+conduct toward the victim that could have resulted in serious physical injury—although it
+only resulted in physical injury—through use of a deadly weapon or dangerous instrument.
+Therefore, the conviction of gang assault in the first degree should be reduced to attempted gang
+assault in the first degree and the conviction of assault in the first degree should be reduced to
+attempted assault in the first degree (see Penal Law §§ 110.00, 120.07,
+120.10 [1]; People v Gray, 30 AD3d at 773; People v Sleasman, 24 AD3d at
+1043). We must remit for County Court to impose sentence on those reduced counts (see
+CPL 470.20 [4]).
+
+Mercure, A.P.J., Rose, Lahtinen and Kavanagh, JJ., concur. Ordered that the judgment is
+modified, on the law and as a matter of discretion in the interest of justice, by (1) reversing
+defendant's convictions for gang assault in the second degree under count 5 of the indictment and
+assault in the second degree under count 7 of the indictment and (2) reducing defendant's
+convictions for (a) gang assault in the first degree under count 4 of the indictment to attempted
+gang assault in the first degree and (b) assault in the first degree under count 6 of the indictment
+to attempted assault in the first degree; counts 5 and 7 dismissed, the sentences imposed on
+counts 4, 5, 6 and 7 vacated, and matter remitted to the County Court of St. Lawrence County for
+resentencing on counts 4 and 6; and, as so modified, affirmed.
+
+
+Footnotes
+
+
+
+
+Footnote 1: Dorfeuille's appeal is decided
+herewith.
+
+
+
+
+Footnote 2: This Court affirmed Francis's
+conviction (People v Francis, 83
+AD3d 1119 [2011], lv denied 17 NY3d 806 [2011]).
+
+
+
+
